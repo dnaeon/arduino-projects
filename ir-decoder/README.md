@@ -8,6 +8,10 @@ Decode your IR remote control codes using this Arduino sketch
 * Breadboard
 * [IR Receiver Diode - TSOP38238](https://www.sparkfun.com/products/10266)
 
+## Libraries
+
+* [IRremote](https://github.com/shirriff/Arduino-IRremote)
+
 ## Sketch
 
 ![Arduino IR decoder](https://raw.github.com/dnaeon/arduino-projects/master/ir-decoder/img/ir-decoder.png)
