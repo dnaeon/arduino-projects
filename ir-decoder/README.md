@@ -10,7 +10,7 @@ Decode your IR remote control codes using this Arduino sketch
 
 ## Sketch
 
-![Arduino IR decoder](https://raw2.github.com/dnaeon/arduino-projects/master/src/img/service-mgr-message-flow.jpg)
+![Arduino IR decoder](https://raw.github.com/dnaeon/arduino-projects/master/ir-decoder/img/ir-decoder.png)
 
 ## Fritzing
 
